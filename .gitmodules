@@ -8,3 +8,8 @@
 	url = https://github.com/hunyong/bzinb
 	shallow = true
 	registered = true
+[submodule "icrf"]
+	path = icrf
+	url = https://github.com/cran/icrf
+	shallow = true
+	registered = true
